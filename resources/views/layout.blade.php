@@ -89,7 +89,7 @@
                         </div>
                         
                         <div class="donate-btn">
-                            <a href="#" class="theme-btn-s1"><i class="fa-solid fa-shield-halved"></i>Get in Touch</a>
+                            <a href="{{route('contact')}}" class="theme-btn-s1"><i class="fa-solid fa-shield-halved"></i>Get in Touch</a>
                         </div>
                     </div>
 
