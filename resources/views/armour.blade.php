@@ -10,7 +10,7 @@
                         <div class="section-title-s3" style="margin-top: 100px;">
                             <span>Altex Armour</span>
                             <h2>We Take Security to the Next Level</h2>
-                            <p>Altex Armour is  a specialized and dedicated formation that represents our unwavering commitment to providing top-notch security solutions. Altex Armour is more than just a service; it's a promise of safety and protection for our clients.</p>
+                            <!-- <p>Altex Armour is  a specialized and dedicated formation that represents our unwavering commitment to providing top-notch security solutions. Altex Armour is more than just a service; it's a promise of safety and protection for our clients.</p> -->
                         </div>
                     </div>
                 </div>                  
@@ -19,7 +19,7 @@
         <!-- end about-page-section -->
 
 
-       <section class="timeline">
+       <!-- <section class="timeline">
         <div class="container">
             <ol>
                 <li>
@@ -64,7 +64,76 @@
               </div>
     
         </div>
-       </section>
+       </section> -->
+
+        <!-- start about-section -->
+        <section class="about-section">
+            <div class="content-area">
+                <div class="left-col">
+                    <div class="about-area">
+                        <div class="section-title">
+                            <!-- <span>#Target</span> -->
+                            <h2 class="text-white">Unique <span>Defense, Absolute Protection </span>Everytime</h2>
+                        </div>
+                        <div class="about-details">
+                            <p class="text-white justify">Altex Armour is  a specialized and dedicated formation that represents our unwavering commitment to providing top-notch security solutions. Altex Armour is more than just a service; it's a promise of safety and protection for our clients.</p>
+                           
+                            <div class="about-features">
+                                <div style="margin-top: 20px">
+                                    <div class="icon">
+                                    <i class="fa-solid fa-shield-halved"></i>
+                                    </div>
+                                    <h3 class="text-green">Physical Security</h3>
+                                    <p>Highly trained security guards and personnel to safeguard properties, assets, and individuals.</p>
+                                </div>
+                                <div style="margin-top: 20px">
+                                    <div class="icon">
+                                    <i class="fa-solid fa-shield-halved"></i>
+                                    </div>
+                                    <h3 class="text-green">Event Security</h3>
+                                    <p>Comprehensive security solutions for public and private events ensuring a safe environment for all attendees.</p>
+                                </div>
+                                <div>
+                                    <div class="icon">
+                                    <i class="fa-solid fa-shield-halved"></i>
+                                    </div>
+                                    <h3 class="text-green">VIP Protection</h3>
+                                    <p>Personalized and discreet protection services for high-profile individuals and executives.</p>
+                                </div>
+                                <div>
+                                    <div class="icon">
+                                    <i class="fa-solid fa-shield-halved"></i>
+                                    </div>
+                                    <h3 class="text-green">Unarmed Guards</h3>
+                                    <p>Trained personnel equipped to handle both armed and unarmed security responsibilities.</p>
+                                </div>
+                                <div>
+                                    <div class="icon">
+                                    <i class="fa-solid fa-shield-halved"></i>
+                                    </div>
+                                    <h3 class="text-green">Logistics Management</h3>
+                                    <p>This entails the acquisition, storage and transportation of inventory from its origin to its destination.</p>
+                                </div>
+                                <!-- <div>
+                                    <div class="icon">
+                                        <i class="fi flaticon-smile"></i>
+                                    </div>
+                                    <h3 class="text-green">Logistics</h3>
+                                    <p>This entails the acquisition, storage and transportation of inventory from its origin to its destination.</p>
+                                </div> -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right-col data-bg-image" data-background="assets/images/about.jpg">
+                    <div class="img-holder">
+                        <!-- <img src="assets/images/about.jpg" alt> -->
+                    </div>
+                </div>
+            </div> <!-- end content-area -->
+        </section>
+        <!-- end about-section -->
 
         <!-- start site-footer -->
         <footer class="site-footer">
@@ -75,7 +144,7 @@
                             <div class="widget about-widget">
                                 <div class="widget-title">
                                     <h3>
-                                        copyright@2024 Altex Security
+                                        copyright@2025 Altex Security
                                     </h3>
                                 </div>
                                

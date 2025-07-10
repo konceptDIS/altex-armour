@@ -1,92 +1,64 @@
 @extends('layout')
 
 @section('content')
-<!-- start contact-section -->
-<section class="contact-section section-padding">
+<!-- start blog-section -->
+<section class="blog-section section-padding">
             <div class="container">
                 <div class="row">
-                    <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                        <div class="section-title-s3" style="margin-top: 100px;">
-                            <span>#Contact us</span>
-                            <h2>Get in touch!</h2>
-                            <p></p>
+                    <div class="col col-xs-12">
+                        <div class="section-title-s2">
+                            <span>#Gallery</span>
+                            <h2>  <span></span></h2>
                         </div>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col col-xs-12">
-                        <div class="contact-info-grids">
+                        <div class="blog-grids">
                             <div class="grid">
-                                <i class="fi flaticon-house"></i>
-                                <h4>Head Office</h4>
-                                <p>5 Mofoti Street, Wuse 2, Abuja, Nigeria</p>
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-1.jpg" alt>
+                                </div>
                             </div>
                             <div class="grid">
-                                <i class="fi flaticon-email"></i>
-                                <h4>Email Address</h4>
-                                <p>info@altexsecurity.com</p>
-                                <p>support@altexsecurity.com</p>
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-2.jpg" alt>
+                                </div>
                             </div>
                             <div class="grid">
-                                <i class="fi flaticon-call"></i>
-                                <h4>Phone Number</h4>
-                                <p>0911 716 3398</p><br>
-                            </div>
-                            <div class="grid">
-                            <i class="fa-brands fa-whatsapp contact-icon"></i>
-                                <h4>Whatsapp Line</h4>
-                                <p>0901 816 8669</p><br>
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-3.jpg" alt>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="contact-form-area">
-                    <div class="row">
-                        <div class="col col-md-4">
-                            <div class="contact-text">
-                                <h3>Still got questions?, then fill out the form!</h3>
-                                <p>Our dedicated team is available to answer your questions and respond to your inquiries promptly.</p>
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="blog-grids">
+                            <div class="grid">
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-7.jpg" alt>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col col-md-8">
-                            <div class="contact-form">
-                                <form method="POST" action="{{ route('contact.submit') }}" class="" id="contact-form-main">
-                                @csrf
-                                    <div>
-                                        <input type="text" class="form-control" name="firstname" id="firstname" placeholder="First Name*" required>
-                                    </div>
-                                    <div>
-                                        <input type="text" class="form-control" name="lastname" id="lastname" placeholder="Last Name*" required>
-                                    </div>
-                                    <div>
-                                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone*" required>
-                                    </div>
-                                    <div>
-                                        <input type="email" class="form-control" name="email" id="phone" placeholder="Email*" required>
-                                    </div>
-                                    
-                                    <div class="fullwidth">
-                                        <textarea class="form-control" name="message"  id="note" placeholder="Enter Text Here..."></textarea>
-                                    </div>
-                                    <div class="submit-area">
-                                        <button type="submit" class="theme-btn-s6"> <i class="fa-solid fa-shield-halved"></i> Send</button>
-                                        <div id="loader">
-                                            <i class="ti-reload"></i>
-                                        </div>
-                                    </div>
-                                    @if(session('success'))
-    <p style="color: green;">{{ session('success') }}</p>
-@endif
-                                </form>
+                            <div class="grid">
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-8.jpg" alt>
+                                </div>
+                            </div>
+                            <div class="grid">
+                                <div class="entry-media">
+                                    <img src="assets/images/blog/img-9.jpg" alt>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div> <!-- end container -->
         </section>
-        <!-- end contact-section -->
-
+        <!-- end blog-section -->
          <!-- start site-footer -->
-         <footer class="site-footer">
+        <footer class="site-footer">
             <div class="upper-footer">
                 <div class="container">
                     <div class="row">
@@ -94,7 +66,7 @@
                             <div class="widget about-widget">
                                 <div class="widget-title">
                                     <h3>
-                                        copyright@2025 Altex Security
+                                        copyright@2024 Altex Security
                                     </h3>
                                 </div>
                                

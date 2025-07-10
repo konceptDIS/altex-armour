@@ -423,10 +423,10 @@ img {
 }
 
 .section-title h2 span, .section-title-s2 h2 span, .section-title-s3 h2 span {
-  -webkit-text-fill-color: #fff;
+  -webkit-text-fill-color: #000;
   /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #020202;
+  -webkit-text-stroke-color: #DBD319;
 }
 
 @media (max-width: 991px) {
@@ -462,6 +462,7 @@ img {
 
 .section-title-s3 p {
   color: #fff;
+  font-size: 20px;
 }
 
 .section-title-s3 h2 {
@@ -3516,6 +3517,10 @@ img {
   text-align: left;
 }
 
+.justify{
+  text-align: justify !important;
+}
+
 
 .white li{
   color: #fff;
@@ -3532,6 +3537,7 @@ img {
 .divide{
   display: flex;
   justify-content: center;
+  font-size: 19px;
 }
 
 
@@ -3702,6 +3708,15 @@ img {
   .timeline .arrows {
     display: none;
   }
+}
+
+.large-text{
+  font-size: 19px;
+  text-align: justify;
+}
+
+.include{
+  color: #DBD319 !important;
 }
 
 
@@ -4021,7 +4036,7 @@ img {
 }
 
 .about-section .left-col .about-area {
-  max-width: 700px;
+  max-width: 800px;
   margin-left: auto;
   padding-left: 15px;
   padding-right: 100px;
@@ -4126,6 +4141,15 @@ img {
   font-size: 40px;
 }
 
+
+.about-details{
+  text-align: justify;
+  font-size: 19px;
+}
+
+.text-green{
+  color: #DBD319;
+}
 /*--------------------------------------------------------------
 #0.9	events-section
 --------------------------------------------------------------*/
@@ -4768,7 +4792,9 @@ img {
 }
 
 .value-word{
-  color: #989265
+  color: #989265;
+  font-size: 19px;
+  text-align: justify;
 }
 
 .mission-justify{
@@ -6144,6 +6170,8 @@ img {
 .mission-vision-section .grid p {
   margin-bottom: 0;
   color: #989265;
+  font-size: 19px;
+  text-align: justify;
 }
 
 .mission-vision-section .overlay {
@@ -6428,6 +6456,11 @@ img {
   height: 100%;
   border: 0;
   outline: 0;
+}
+
+.contact-icon{
+  font-size: 70px;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -9215,7 +9248,7 @@ h6 {
 
 @media screen and (min-width: 1200px) {
   .section-title-s3 p {
-    font-size: 17px;
+    font-size: 19px;
   }
 }
 
@@ -9351,8 +9384,9 @@ h6 {
 }
 
 .about-section .about-features p {
-  font-size: 15px;
+  font-size: 17px;
   color: #fff;
+  text-align: justify;
 }
 
 .shop-pg-section .details h4 {

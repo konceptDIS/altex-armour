@@ -28,20 +28,20 @@
                         <div class="mission-vision-grids clearfix">
                             <div class="grid">
                                 <div class="overlay"></div>
-                                <h3>Our mission</h3>
+                                <h3>Our Mission</h3>
                                 <p class="mission-justify"> At Altex Security, our mission is to provide individuals and organizations with comprehensive security services essential for safeguarding themselves and their assets in an ever-changing security environment.
                                 </p>
                             </div>
                             <div class="grid">
                                 <div class="overlay"></div>
-                                <h3>Our vision</h3>
+                                <h3>Our Vision</h3>
                                 <p class="mission-justify">Our vision is to become the foremost leader in the security industry, continuously innovating and adapting to address emerging challenges, while upholding the highest standards of professionalism and integrity
                                 </p>
                             </div>
                             <div class="grid">
                                 <div class="overlay"></div>
-                                <h3>Our values</h3>
-                                <p class="left">Our core values are encased in the word SICC <br>
+                                <h3>Our Values</h3>
+                                <p class="left">Our core values are encased in the word SICC:</p><br> <br>
                                     <ul class="value-word">
                                         <li>S - Security Excellence</li>
                                         <li>I - Integrity</li>
@@ -132,7 +132,7 @@
                                 <!-- <h2>We have <span>reached</span> so far!</h2> -->
                             </div>
                             <div class="content">
-                                <p class="text-white">Our comprehensive security training services are customized to meet client needs, covering threat recognition, crisis management, and emergency response. These programs ensure readiness and compliance, empowering organizations to bolster their security measures effectively. Our offerings encompass Hostile Environment Awareness Training, bespoke training solutions, situational awareness sessions, Visitor Management Training, and Emergency Response Training.</p>
+                                <p class="text-white justify large-text">Our comprehensive security training services are customized to meet client needs, covering threat recognition, crisis management, and emergency response. These programs ensure readiness and compliance, empowering organizations to bolster their security measures effectively. Our offerings encompass Hostile Environment Awareness Training, bespoke training solutions, situational awareness sessions, Visitor Management Training, and Emergency Response Training.</p>
 
                                 
                             </div>
@@ -140,9 +140,8 @@
                                 <span>Security Risk Management </span>
                                 <!-- <h2>We have <span>reached</span> so far!</h2> -->
                             </div>
-                            <div class="content white">
-                                <p class="text-white">Our specialized service focuses on identifying, assessing, and mitigating security risks to protect your assets and operations effectively.<br>
-                                    They Include: <br>
+                            <div class="content white large-text">
+                                <p class="text-white justify">Our specialized service focuses on identifying, assessing, and mitigating security risks to protect your assets and operations effectively.They Include:
                                 <li>Security Reports: Providing detailed insights and recommendations based on thorough analysis.</li>
                                 <li>Security Alerts: Timely notifications to keep you informed and prepared for potential threats.</li>
                                 <li>Crisis Management: Expert strategies and protocols to navigate emergencies with confidence.</li>
@@ -171,15 +170,15 @@
                                 <!-- <h2>We have <span>reached</span> so far!</h2> -->
                             </div>
                             <div class="content">
-                                <p class="text-white">Our specialized operations team at Altex Security enhances transport management with expert escort services, ensuring safe and secure logistics. We provide strategic planning and skilled personnel to safeguard transportation routes and facilitate smooth operations, bolstering client confidence in every journey.</p>
+                                <p class="text-white justify large-text">Our specialized operations team at Altex Security enhances transport management with expert escort services, ensuring safe and secure logistics. We provide strategic planning and skilled personnel to safeguard transportation routes and facilitate smooth operations, bolstering client confidence in every journey.</p>
                                 
                             </div>
                             <div class="section-title">
                                 <span>SECURITY CONSULTING </span>
                                 <!-- <h2>We have <span>reached</span> so far!</h2> -->
                             </div>
-                            <div class="content white">
-                                <p class="text-white">Our Security Consulting service offers expert guidance and solutions to enhance your security posture and mitigate risks effectively.<br>
+                            <div class="content white large-text">
+                                <p class="text-white justify">Our Security Consulting service offers expert guidance and solutions to enhance your security posture and mitigate risks effectively.</p><br>
                                     They Include: <br>
                                 <li>Risk assessment: Comprehensive evaluation to identify and prioritize security risks.</li>
                                 <li>Security audits: Thorough examinations to assess current security measures and identify vulnerabilities.</li>
@@ -188,12 +187,12 @@
                                 
                                 <div class="goal-raised">
                                     <div class="text-white">
-                                        <span>Staff</span>
-                                        <h3 class="text-white">33+</h3>
+                                        <span>Operatives</span>
+                                        <h3 class="text-white">85+</h3>
                                     </div>
                                     <div class="text-white">
                                         <span>Locations </span>
-                                        <h3 class="text-white">10+</h3>                                        
+                                        <h3 class="text-white">24+</h3>                                        
                                     </div>
                                     <div class="text-white">
                                         <span>Cities </span>
@@ -224,7 +223,7 @@
                             <div class="widget about-widget">
                                 <div class="widget-title">
                                     <h3>
-                                        copyright@2024 Altex Security
+                                        copyright@2025 Altex Security
                                     </h3>
                                 </div>
                                
